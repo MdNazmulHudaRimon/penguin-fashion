@@ -1,0 +1,42 @@
+body{
+    font-family: 'Fraunces', serif;
+
+}
+img{
+    max-width: 100%;
+}
+header{
+    background-color: #FFFBF0;
+}
+.link a{
+    margin: 13px;
+    color:#3C3C3C;
+}
+.navbar img{
+    max-width: 200px;
+}
+.header-content h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.header-content{
+    margin-top: 110px ;
+}
+.header-content p{
+    margin-bottom:25px;
+}
+.button{
+    padding: 10px 31px;
+    background-color:#A4BC46 ;
+    color: #fff;
+}
+.icon{
+    color: #fff;
+}
+.highlight-1{
+    color: #FABE4C;
+}
+.highlight-2{
+    color: #363958;
+}
